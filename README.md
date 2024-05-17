@@ -1,3 +1,3 @@
 # myRepo
 this is my newly and first repository
-hello my name is reyan
+hello my name is Master
